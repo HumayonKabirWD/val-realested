@@ -36,7 +36,7 @@ const Hero = () => {
                 <h1 className='text-xl font-bold italic'>VAL Construction</h1>
             </div>
             <div className="h-52 w-64">
-                <h1 className='text-4xl text-balance font-bold uppercase'>Let{"'"}s make your vision come to life</h1>
+                <h1 className='text-4xl text-balance font-bold uppercase'>Let&apos;s make your vision come to life</h1>
             </div>
             <button className='font-bold py-2 px-3 bg-[#0087FF] hover:bg-[#2291ff] hover:scale-105'>Learn more </button>
         </div>

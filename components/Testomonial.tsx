@@ -10,19 +10,19 @@ const Testomonial = () => {
 
           <div className="flex flex-col px-10 mb-10">
             <div className='h-1 w-12 bg-[#002F69] rounded-xl'/>
-            <p className='mt-10'>Boost your product and service's credibility by adding testimonials from your clients. People love recommendations so feedback from others who've tried it is invaluable.</p>
+            <p className='mt-10'>Boost your product and services credibility by adding testimonials from your clients. People love recommendations so feedback from others whove tried it is invaluable.</p>
             <p className='mt-10 font-semibold'>Tristan Clousso, Shutter Club NY</p>
           </div>
 
           <div className="flex flex-col px-10">
             <div className='h-1 w-12 bg-[#002F69] rounded-xl'/>
-            <p className='mt-10'>Boost your product and service's credibility by adding testimonials from your clients. People love recommendations so feedback from others who've tried it is invaluable.</p>
+            <p className='mt-10'>Boost your product and services credibility by adding testimonials from your clients. People love recommendations so feedback from others who&apos;ve tried it is invaluable.</p>
             <p className='mt-10 font-semibold'>Shani Mensah, Vivarily</p>
           </div>
 
           <div className="flex flex-col px-10">
             <div className='h-1 w-12 bg-[#002F69] rounded-xl'/>
-            <p className='mt-10'>Boost your product and service's credibility by adding testimonials from your clients. People love recommendations so feedback from others who've tried it is invaluable.Add them here!</p>
+            <p className='mt-10'>Boost your product and services credibility by adding testimonials from your clients. People love recommendations so feedback from others whove tried it is invaluable.Add them here!</p>
             <p className='mt-10 font-semibold'>Paisley Finwood</p>
           </div>
 
