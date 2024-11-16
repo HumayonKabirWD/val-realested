@@ -22,7 +22,7 @@ const Gsap = () => {
         )
     })
   return (
-    <div className="flex items-center justify-center h-screen">
+    <div className="flex items-center justify-center my-10 lg:my-0">
     <div className="  shadow-lg rounded-lg overflow-hidden">
       <Image
         ref={imagRef}

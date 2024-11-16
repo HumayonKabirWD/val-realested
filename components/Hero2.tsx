@@ -5,7 +5,7 @@ import { StarHalf, StarIcon } from 'lucide-react'
 
 const Hero2 = () => {
   return (
-    <div className='bg-[#EEEEF0] h-screen text-[#002F69]'>
+    <div className='bg-[#EEEEF0] h-full lg:h-screen text-[#002F69] pb-10'>
         <div className="flex items-center justify-start px-10 text-balance pt-10 lg:pt-32 lg:w-[720px] ml-0 lg:ml-40">
             <p className='text-4xl lg:text-5xl font-bold'>VAL Construction is built on our founders' unique outlook on construction</p>
         </div>
